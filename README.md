@@ -20,7 +20,7 @@ This project is an interactive HR Analytics Dashboard built to analyze employee 
 • Pivot Charts
 • Data Visualization
 
-📈 Business Benefits:
+📈 Business Benefits:-
 • Identify key factors influencing employee attrition.
 • Improve employee retention strategies.
 • Monitor workforce demographics and trends.
